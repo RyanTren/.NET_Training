@@ -32,3 +32,12 @@ C:\Users\i292d\Desktop\.NET_Training\obj\Debug\net9.0\refint\.NET_Training.dll
 C:\Users\i292d\Desktop\.NET_Training\obj\Debug\net9.0\.NET_Training.pdb
 C:\Users\i292d\Desktop\.NET_Training\obj\Debug\net9.0\.NET_Training.genruntimeconfig.cache
 C:\Users\i292d\Desktop\.NET_Training\obj\Debug\net9.0\ref\.NET_Training.dll
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.csproj.AssemblyReference.cache
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.AssemblyInfoInputs.cache
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.AssemblyInfo.cs
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.csproj.CoreCompileInputs.cache
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.MvcApplicationPartsAssemblyInfo.cs
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repo\.NET_Training\obj\Debug\net9.0\.NET_Training.sourcelink.json
